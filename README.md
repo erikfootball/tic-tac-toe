@@ -1,6 +1,5 @@
-# hello-world
-babby's first repository
+# tic-tac-toe
 
-hey, my name is Ford
-I'm here to code and stuff. Yeah.
-It's quite overwhelming.
+In which is housed a browser-based
+implementation of tic-tac-toe
+using HTML, CSS, and JS.
